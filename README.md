@@ -1,2 +1,2 @@
 # bestStudent_homework
-Checking who is the best student, reading from csv.
+Console application to check best student from csv file. CSV file with student names and results are in "bin/Debug/net8.0/Data" folder.
