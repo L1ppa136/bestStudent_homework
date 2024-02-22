@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Display_Best_Student/1.0.0": {
+        "runtime": {
+          "Display_Best_Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Display_Best_Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
